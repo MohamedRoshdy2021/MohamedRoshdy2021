@@ -1,6 +1,6 @@
-### Hi there 👋 IAM Mohammed Roshdy 
+### Hi there 👋 IAM Mohammed Roshdy software developer
 
-<a href="https://ibb.co/Wphks0t"><img src="https://i.ibb.co/0V7CQKt/my-imagy.jpg" width="220px" height="200px" alt="my-imagy" border="0"></a>
+<a href="https://ibb.co/Wphks0t"><img src="https://i.ibb.co/0V7CQKt/my-imagy.jpg" width="220px" height="200px" alt="my-imagy" border-radius="50%"></a>
 
 <!--**MohamedRoshdy2021/MohamedRoshdy2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
