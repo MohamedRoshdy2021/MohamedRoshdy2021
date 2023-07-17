@@ -1,7 +1,6 @@
 ### Hi there 👋 IAM Mohammed Roshdy 
 
 
-<script type="text/javascript" src="https://files.fm/gallery_module/v1/js/?hash=82ydhkxar&user=7139966&ihash=cb71374a64942511fad562e99b27bfcf&view=horizontal" id="files_fm_upload_script_tag"></script>
 <!--**MohamedRoshdy2021/MohamedRoshdy2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
