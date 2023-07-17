@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on the Microverse program
-- 🌱 I’m currently learning about Javascript and front-end stack
+- 🌱 I’m currently learning about Front-end and Back-end stack
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about front-end development
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-elkhadragy)
