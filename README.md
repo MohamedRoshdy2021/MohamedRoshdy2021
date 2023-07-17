@@ -1,4 +1,4 @@
-### Hi there 👋 IAM Mohammed Roshdy software developer
+### Hi there 👋 IAM Mohammed Roshdy a software developer
 
 <a href="https://ibb.co/Wphks0t">
   <img src="https://i.ibb.co/0V7CQKt/my-imagy.jpg" class="rounded-image" width="220px" height="200px" alt="my-imagy">
