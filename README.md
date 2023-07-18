@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Front-end and Back-end stack
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about front-end development
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammed-elkhadragy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/xmedox20111) 
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-elkhadragy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/xmedox20111) 
 
 - 😄 Pronouns: RO-SH-DY
 - ⚡ Fun fact: I love watching home alone movie :D and play with my hens !! 
