@@ -6,8 +6,7 @@
 - 💬 Ask me about front-end development
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-elkhadragy-2b58b6215/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://www.twitter.com/xmedox20111) 
 
-- 😄 Pronouns: RO-SH-DY
-- ⚡ Fun fact: I love watching home alone movie :D and play with my hens !! 
+- ⚡ Fun fact: I love watching home alone movie series :D and play with my hens 🐤 !! 
 
 
 # 💻 Tech Stack:
